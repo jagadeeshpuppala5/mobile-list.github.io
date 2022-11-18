@@ -1,0 +1,32 @@
+.bg{
+    background-image: url("https://img.freepik.com/premium-photo/blured-lights-sunset-street-torino-italy_90220-383.jpg?size=626&ext=jpg&uid=R85202679&ga=GA1.2.1859394032.1668591111&semt=ais");
+    background-size: cover;
+    height:250vh;
+}
+.he1{
+    color:aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+    font-weight: 600;
+    padding:25px;
+}
+.bgcard{
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin:25px;
+}
+.cardcon{
+    padding:20px;   
+}
+.he2{
+    color:navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    font-weight:bold;
+}
+.para{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+}
